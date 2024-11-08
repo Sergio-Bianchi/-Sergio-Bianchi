@@ -9,7 +9,7 @@
     <a style="text-decoration: none;" href="https://discordapp.com/users/379035005231300608">
         <img style="border-radius:10px" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fdiscordshield.callmeecho.dev%2Fapi%2F379035005231300608&logo=discord&style=for-the-badge&logoColor=white&labelColor=181825&color=b4befe" />
     </a>
-    <h1 style="border-bottom: none;">Hi, I'm Echo!</h1>
+    <h1 style="border-bottom: none;">Hi, I'm NOT Echo! (see repo commit)</h1>
 </div>
 
 ```csharp
