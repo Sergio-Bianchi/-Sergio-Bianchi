@@ -1,5 +1,5 @@
 <div align="center">
-    <a style="text-decoration: none;" href="https://github.com/Sergio-Bianchi">
+    <a style="text-decoration: none;" href="https://github.com/Sergio-Bianchi?tab=followers">
         <img style="border-radius:10px" src="https://img.shields.io/github/followers/Sergio-Bianchi?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
     </a>
     <!-- this image was a nightmare -->
@@ -42,18 +42,27 @@ public class Human {
 
 ---
 
+
 <div align="center">
     <h2 style="border-bottom: none;">Languages i know</h2>
+    <a>
         <img src="https://skillicons.dev/icons?i=,java,c,bash,&theme=dark&perline=6"/> <br>
         <img src="https://skillicons.dev/icons?i=javascript,php,html,css&theme=dark&perline=7" />
+        </a>
     <h2 style="border-bottom: none;">Frameworks i work with</h2>
+    <a>
         <img src="https://skillicons.dev/icons?i=,tailwind,discordjs,laravel,&theme=dark" />
+        </a>
     <h2 style="border-bottom: none;">Tools i use</h2>
+    <a>
         <img src="https://skillicons.dev/icons?i=arch,docker,idea,vscode&theme=dark&perline=4" />
+    </a>
 </div>
 
 ---
 
+<a>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sergio-Bianchi&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&ring_color=f5c2e7&border_radius=8" style="margin-bottom: 20px;" />
 </div>
+</a>
