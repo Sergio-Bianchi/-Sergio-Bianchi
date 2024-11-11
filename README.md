@@ -9,16 +9,16 @@
     <!-- 
         <img style="border-radius:10px" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fdiscordshield.ALittleJag.dev%2Fapi%2F379035005231300608&logo=discord&style=for-the-badge&logoColor=white&labelColor=181825&color=b4befe" />
     -->
-    <h1 style="border-bottom: none;">Hi, I'm NOT Echo! (see repo commit)</h1>
+    <h1 style="border-bottom: none;">Hi, I'm Sergio </h1>
 </div>
 
 ```java
 public class Human {
     // Basic info
     public String Pronouns = "Any";
-    public String Username = "ALittleJag";
+    public String Username = "ALittleJag / Jag";
     public String Location = "Italy";
-    public String Timezone = "CEST (UTC+1)";
+    public String Timezone = "CEST (UTC+1/2)";
 }
 ```
 
@@ -45,23 +45,23 @@ public class Human {
 
 <div align="center">
     <h2 style="border-bottom: none;">Languages i know</h2>
-    <a>
+    <a href="https://github.com/Sergio-Bianchi#languages-i-know">
         <img src="https://skillicons.dev/icons?i=,java,c,bash,&theme=dark&perline=6"/> <br>
         <img src="https://skillicons.dev/icons?i=javascript,php,html,css&theme=dark&perline=7" />
-        </a>
+    </a>
     <h2 style="border-bottom: none;">Frameworks i work with</h2>
-    <a>
+    <a href="https://github.com/Sergio-Bianchi#frameworks-i-work-with">
         <img src="https://skillicons.dev/icons?i=,tailwind,discordjs,laravel,&theme=dark" />
         </a>
     <h2 style="border-bottom: none;">Tools i use</h2>
-    <a>
+    <a href="https://github.com/Sergio-Bianchi#tools-i-use">
         <img src="https://skillicons.dev/icons?i=arch,docker,cloudflare,idea,vscode&theme=dark&perline=5" />
     </a>
 </div>
 
 ---
 
-<a>
+<a href="https://github.com/Sergio-Bianchi#tools-i-use">
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sergio-Bianchi&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&ring_color=f5c2e7&border_radius=8" style="margin-bottom: 20px;" />
 </div>
